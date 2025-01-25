@@ -1,7 +1,9 @@
-
+import Message from "./message.js";
 function App() {
   return (
-    <h1>HELLO</h1>
+    <>
+    <Message />
+    </>
     
   );
 }

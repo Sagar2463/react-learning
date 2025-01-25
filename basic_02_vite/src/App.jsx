@@ -1,8 +1,9 @@
 
+import Message from "./Message"
 function App() {
   
   return (
- <h2>hello vite</h2>
+  <Message/>
   )
 }
 
